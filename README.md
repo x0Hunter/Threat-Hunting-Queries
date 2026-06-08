@@ -50,22 +50,24 @@ This repository contains my **personal detection engineering portfolio**. Every 
 ---
 
 ## 📂 Repository Structure
-SOC-Detection-Rules/
-│
-├── Splunk/ # 50+ SPL queries (Detection + Hunting)
-│ ├── Lateral_Movement/
-│ ├── Execution/
-│ ├── Discovery/
-│ └── ...
-│
-├── Sigma/ # 50+ Sigma rules
-│ ├── lateral_movement/
-│ ├── execution/
-│ └── ...
-│
-├── KQL/ # 50+ KQL queries (ELK Stack)
-│ ├── Lateral_Movement/
-│ ├── Execution/
-│ └── ...
-│
-└── README.md
+
+`SOC-Detection-Rules/`
+- `Splunk/` (50+ SPL queries - Detection + Hunting)
+  - Lateral_Movement/
+  - Execution/
+  - Discovery/
+  - Defense_Evasion/
+  - Credential_Access/
+  - Persistence/
+  - Collection/
+  - C2/
+  - Impact/
+- `Sigma/` (50+ Sigma rules)
+  - lateral_movement/
+  - execution/
+  - discovery/
+- `KQL/` (50+ KQL queries - ELK Stack)
+  - Lateral_Movement/
+  - Execution/
+  - Discovery/
+- `README.md`
