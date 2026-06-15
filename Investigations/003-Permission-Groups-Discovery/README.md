@@ -20,7 +20,7 @@ This command is used to display the security groups associated with the current 
 ## Investigation Artifacts
 
 * 📊 [Attack Flow Diagram](./permission-groups-discovery.png)
-* 🔍 [Splunk Searches](./splunk-search.md)
+* 🔍 [Splunk Searches](./splunk-search-permission.md)
 * 📊 [Resault of Splunk Searches](./splunk.png)
 
 
