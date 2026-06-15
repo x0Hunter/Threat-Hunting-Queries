@@ -63,7 +63,10 @@ This repository contains my **personal detection engineering portfolio**. Every 
 ### Current Investigations
 
 #### 001 - [T1059.001 - Encoded PowerShell Execution](Investigations/001-Encoded-PowerShell/)
-
+#### 001 - [T1027- Obfuscated Files Or Information](Investigations/001-Encoded-PowerShell/)
+#### 001 - [T1562.001- Impair Defenses](Investigations/001-Encoded-PowerShell/)
+#### 001 - [T1105- Ingress Tool Transfer](Investigations/001-Encoded-PowerShell/)
+#### 001 - [T1071.001 - Aplication Layer Protocol](Investigations/001-Encoded-PowerShell/)
 * AMSI Bypass Analysis
 * PowerShell Deobfuscation
 * IOC Extraction
