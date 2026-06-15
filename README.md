@@ -53,7 +53,7 @@ This repository contains my **personal detection engineering portfolio**. Every 
 
 `SOC-Detection-Rules/`
   - Invesgtigations(SPL queries)
-  -T1059.001 - Encoded PowerShell Execution
+  - T1059.001 - Encoded PowerShell Execution
   ..
 - `KQL/` (50+ KQL queries)
   - Invesgtigations
