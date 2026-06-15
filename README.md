@@ -70,5 +70,6 @@ This repository contains my **personal detection engineering portfolio**. Every 
 * ATT&CK Mapping
 * Attack Flow Development
 
-
+#### 002 - [T1033 - System Owner/User Discovery](Investigations/002-System-Onwer-User-Discovery/)
+#### 003 - [T1069.001 - Permission Group Discovery](Investigations/002-Permission-Group-Discovery/)
 
