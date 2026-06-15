@@ -27,7 +27,7 @@ The PowerShell payload contained:
 
 ## Artifacts
 
-- attack-flow.png
-- iocs.md
-- mitre-mapping.md
-- splunk_search.md
+[Attack-Flow](Investigations/001-Encoded-PowerShell/attack-flow.png)
+[IOCs](Investigations/001-Encoded-PowerShell/iocs.md)
+[MITRE Mapping](Investigations/001-Encoded-PowerShell/mitre-mapping.md)
+[Splunk Search](Investigations/001-Encoded-PowerShell/splunk_search.md)
