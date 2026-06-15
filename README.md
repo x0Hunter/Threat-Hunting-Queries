@@ -52,8 +52,10 @@ This repository contains my **personal detection engineering portfolio**. Every 
 ## 📂 Repository Structure
 
 `SOC-Detection-Rules/`
-  - Invesgtigations
-- `KQL/` (50+ KQL queries - ELK Stack)
+  - Invesgtigations(SPL queries)
+  -T1059.001 - Encoded PowerShell Execution
+  ..
+- `KQL/` (50+ KQL queries)
   - Invesgtigations
 - `README.md`
 
