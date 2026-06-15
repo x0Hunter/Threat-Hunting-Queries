@@ -52,21 +52,9 @@ This repository contains my **personal detection engineering portfolio**. Every 
 ## 📂 Repository Structure
 
 `SOC-Detection-Rules/`
-- `Splunk/` (50+ SPL queries - Detection + Hunting)
-  -Invesgtigations
-    - Lateral_Movement/
-    - Execution/
-    - Discovery/
-    - Defense_Evasion/
-    - Credential_Access/
-    - Persistence/
-    - Collection/
-    - C2/
-    - Impact/
+  - Invesgtigations
 - `KQL/` (50+ KQL queries - ELK Stack)
-  - Lateral_Movement/
-  - Execution/
-  - Discovery/
+  - Invesgtigations
 - `README.md`
 
 
