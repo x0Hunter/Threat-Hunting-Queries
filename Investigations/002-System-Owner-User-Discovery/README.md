@@ -1,4 +1,4 @@
-**T1033 - System Owner/User Discovery**  **T1069 - Permission Groups Discovery**
+**T1033 - System Owner/User Discovery** 
 
 Scenario
 
@@ -19,8 +19,6 @@ These commands are commonly used by attackers after gaining execution on a host 
 | 2017-08-24 | 06:08:41 | venus.frothly.local |
 | 2017-08-24 | 06:01:33 | wrk-klagerf.frothly.local |
 | 2017-08-24 | 05:39:09 | wrk-btun.frothly.local |
-| 2017-08-24 | 05:32:00 |	wrk-btun.frothly.local |
-| 2017-08-24 | 05:31:59 |	wrk-btun.frothly.local |
 
 
 **Command	Purpose**
