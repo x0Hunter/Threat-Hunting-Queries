@@ -27,10 +27,10 @@ The PowerShell payload contained:
 
 ## Artifacts
 
-- 📊 [Attack Flow Diagram](Investigations/001-Encoded-PowerShell/attack-flow.png)
+- 📊 [Attack Flow Diagram](Threat-Hunting-Queries/Investigations/001-Encoded-PowerShell/attack-flow.png)
 
-- 🚨 [Indicators of Compromise](Investigations/001-Encoded-PowerShell/iocs.md)
+- 🚨 [Indicators of Compromise](Threat-Hunting-Queries/Investigations/001-Encoded-PowerShell/iocs.md)
 
-- 🎯 [MITRE ATT&CK Mapping](Investigations/001-Encoded-PowerShell/mitre-mapping.md)
+- 🎯 [MITRE ATT&CK Mapping](Threat-Hunting-Queries/Investigations/001-Encoded-PowerShell/mitre-mapping.md)
 
-- 🔍 [Splunk Searches](Investigations/001-Encoded-PowerShell/splunk_search.md)
+- 🔍 [Splunk Searches](Threat-Hunting-Queries/Investigations/001-Encoded-PowerShell/splunk_search.md)
