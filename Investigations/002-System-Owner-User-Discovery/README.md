@@ -24,6 +24,6 @@ These commands are commonly used by attackers after gaining execution on a host 
 **Command	Purpose**
 whoami /user	Identify current user account
 
-- 📊 [Attack Flow Diagram](./user-discovery.png.png)
+- 📊 [Attack Flow Diagram](./user-discovery.png)
 
 - 🔍 [Splunk Searches](./splunk-search.md)
