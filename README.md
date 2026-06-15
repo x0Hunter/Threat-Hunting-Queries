@@ -62,7 +62,7 @@ This repository contains my **personal detection engineering portfolio**. Every 
 
 ### Current Investigations
 
-#### 001 - [T1059.001 - Encoded PowerShell Execution](Investigations/001-Encoded-PowerShell/README.MD)
+#### 001 - [T1059.001 - Encoded PowerShell Execution](Investigations/001-Encoded-PowerShell/README.md)
 
 * AMSI Bypass Analysis
 * PowerShell Deobfuscation
