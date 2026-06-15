@@ -34,3 +34,6 @@ The PowerShell payload contained:
 - 🎯 [MITRE ATT&CK Mapping](./mitre-mapping.md)
 
 - 🔍 [Splunk Searches](./splunk_search.md)
+
+- 📊 [Splunk Result](./powershell-splunk-result.png)
+
