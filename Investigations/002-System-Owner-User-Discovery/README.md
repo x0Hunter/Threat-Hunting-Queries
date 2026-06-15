@@ -26,4 +26,4 @@ whoami /user	Identify current user account
 
 - 📊 [Attack Flow Diagram](./Investigations/002-System-Owner-User-Discovery/attack-flow.png)
 
-- 🔍 [Splunk Searches](./002-System-Owner-User-Discovery/splunk_search.md)
+- 🔍 [Splunk Searches](./Investigations/002-System-Owner-User-Discovery/splunk-search.md)
