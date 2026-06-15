@@ -53,21 +53,31 @@ This repository contains my **personal detection engineering portfolio**. Every 
 
 `SOC-Detection-Rules/`
 - `Splunk/` (50+ SPL queries - Detection + Hunting)
-  - Lateral_Movement/
-  - Execution/
-  - Discovery/
-  - Defense_Evasion/
-  - Credential_Access/
-  - Persistence/
-  - Collection/
-  - C2/
-  - Impact/
-- `Sigma/` (50+ Sigma rules)
-  - lateral_movement/
-  - execution/
-  - discovery/
+  -Invesgtigations
+    - Lateral_Movement/
+    - Execution/
+    - Discovery/
+    - Defense_Evasion/
+    - Credential_Access/
+    - Persistence/
+    - Collection/
+    - C2/
+    - Impact/
 - `KQL/` (50+ KQL queries - ELK Stack)
   - Lateral_Movement/
   - Execution/
   - Discovery/
 - `README.md`
+
+
+### Current Investigations
+| Investigations ID | Techniques 
+|--------|-----------:|
+| **001** | **T1569.001 Encoded PowerShell Execution** |
+  - AMSI Bypass Analysis
+  - PowerShell Deobfuscation
+  - IOC Extraction
+  - ATT&CK Mapping
+  - Attack Flow Development
+
+
