@@ -11,6 +11,15 @@ This command was used to gather information about the current user and security 
 whoami /user
 
 These commands are commonly used by attackers after gaining execution on a host to identify the current user context and enumerate security group memberships.
+**Command	Purpose**
+whoami /user	Identify current user account
+
+- 📊 [Attack Flow Diagram](./user-discovery.png)
+
+- 🔍 [Splunk Searches](./splunk-search.md)
+
+- 🔍 [Result Of Splunk Searches](./splunk-user-discovery.png)
+
 
 **Affected Systems**
 | Date | Time | Host |
@@ -20,10 +29,3 @@ These commands are commonly used by attackers after gaining execution on a host 
 | 2017-08-24 | 06:01:33 | wrk-klagerf.frothly.local |
 | 2017-08-24 | 05:39:09 | wrk-btun.frothly.local |
 
-
-**Command	Purpose**
-whoami /user	Identify current user account
-
-- 📊 [Attack Flow Diagram](./user-discovery.png)
-
-- 🔍 [Splunk Searches](./splunk-search.md)
