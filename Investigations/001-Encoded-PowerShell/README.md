@@ -29,7 +29,7 @@ The PowerShell payload contained:
 
 - 📊 [Attack Flow Diagram](Investigations/001-Encoded-PowerShell/attack-flow.png)
 
--🚨 [Indicators of Compromise](Investigations/001-Encoded-PowerShell/iocs.md)
+- 🚨 [Indicators of Compromise](Investigations/001-Encoded-PowerShell/iocs.md)
 
 - 🎯 [MITRE ATT&CK Mapping](Investigations/001-Encoded-PowerShell/mitre-mapping.md)
 
