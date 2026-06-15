@@ -2,7 +2,9 @@
 
 Scenario
 
-During threat hunting activities, process creation logs (Windows Event ID 4688) revealed execution of the whoami.exe utility with discovery-related parameters.
+During the investigation, Windows Event ID 4688 process creation logs revealed the execution of `whoami.exe`.
+
+This command was used to gather information about the current user and security groups on the affected systems.
 
 **Observed commands**
 
