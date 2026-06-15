@@ -10,11 +10,12 @@ whoami /user
 These commands are commonly used by attackers after gaining execution on a host to identify the current user context and enumerate security group memberships.
 
 **Affected Systems**
-|--------|--------|--------:|
-|2017-08-24|06:17:17|mercury.frothly.local|
-|2017-08-24|06:08:41|venus.frothly.local|
-|2017-08-24|06:01:33|wrk-klagerf.frothly.local|
-|2017-08-24|05:39:09|wrk-btun.frothly.local|
+| Date | Time | Host |
+|------|------|------|
+| 2017-08-24 | 06:17:17 | mercury.frothly.local |
+| 2017-08-24 | 06:08:41 | venus.frothly.local |
+| 2017-08-24 | 06:01:33 | wrk-klagerf.frothly.local |
+| 2017-08-24 | 05:39:09 | wrk-btun.frothly.local |
 
 
 **Command	Purpose**
