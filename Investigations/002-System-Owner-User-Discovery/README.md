@@ -1,4 +1,5 @@
-**##T1033 - System Owner/User Discovery**
+**T1033 - System Owner/User Discovery**
+
 Scenario
 
 During threat hunting activities, process creation logs (Windows Event ID 4688) revealed execution of the whoami.exe utility with discovery-related parameters.
