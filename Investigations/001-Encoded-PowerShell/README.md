@@ -1,11 +1,33 @@
-Scenario
+# Encoded PowerShell Investigation
 
-A suspicious encoded PowerShell execution was identified
-through Windows Event ID 4688 process creation logs.
+## Scenario
 
-Objectives
+Suspicious PowerShell execution identified through Windows Event ID 4688 logs.
+
+## Detection Logic
+
+Encoded PowerShell commands were identified using process creation logs.
+
+## Objectives
 
 - Identify the payload
 - Decode the command
 - Extract IOC information
-- Map findings to MITRE ATT&CK
+- Map activity to MITRE ATT&CK
+- Create detection logic
+
+## Findings
+
+The PowerShell payload contained:
+
+- AMSI bypass functionality
+- RC4-style decryption routine
+- HTTPS communication
+- Remote payload retrieval
+
+## Artifacts
+
+- attack-flow.png
+- iocs.md
+- mitre-mapping.md
+- splunk_search.md
