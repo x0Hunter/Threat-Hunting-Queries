@@ -62,8 +62,8 @@ This repository contains my **personal detection engineering portfolio**. Every 
 
 ### Current Investigations
 | Investigations ID | Techniques 
-|--------|-----------:|
-| **001** | **[T1059.001 - Encoded PowerShell Execution](./Investigations/001-Encoded-PowerShell/README.md)** |
+|--------|-----------|-------------:|
+| **001** | **[T1059.001 - Encoded PowerShell Execution](./Investigations/001-Encoded-PowerShell/README.md)** | AMSI Bypass, PowerShell Deobfuscation, IOC Extraction, ATT&CK Mapping, Attack Flow Analysis |
   - AMSI Bypass Analysis
   - PowerShell Deobfuscation
   - IOC Extraction
